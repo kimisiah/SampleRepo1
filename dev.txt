@@ -1,4 +1,4 @@
-serviceA:1.0.0
+serviceA:1.0.2
 
 serviceB:1.0.0
 
