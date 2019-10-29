@@ -3,3 +3,7 @@ serviceA:1.0.4
 serviceB:1.0.6
 
 serviceC:1.0.0
+
+methodB(){
+
+}
