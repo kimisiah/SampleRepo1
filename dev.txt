@@ -1,5 +1,5 @@
 serviceA:1.0.3
 
-serviceB:1.0.1
+serviceB:1.0.4
 
 serviceC:1.0.0
