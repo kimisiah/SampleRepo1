@@ -4,6 +4,6 @@ serviceB:1.0.7
 
 serviceC:1.0.0
 
-anothermethodA(){
+methodB(){
 
 }
