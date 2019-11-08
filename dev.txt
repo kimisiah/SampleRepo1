@@ -4,7 +4,7 @@ serviceB:1.0.7
 
 serviceC:1.0.0
 
-serviceCF:1.0.0
+serviceCF:1.0.1
 
 anothermethodA(){
   print("Hello World!")
